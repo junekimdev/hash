@@ -1,5 +1,7 @@
 // Package hash is wrapper package around argon2
+//
 // Derived from Alex Edwards's code
+//
 // @origin https://gist.github.com/alexedwards/34277fae0f48abe36822b375f0f6a621
 package hash
 
