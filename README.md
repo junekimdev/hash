@@ -2,10 +2,10 @@
 
 Hash algorithms in Golang
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/JuneKimDev/hash)](https://pkg.go.dev/github.com/JuneKimDev/hash)
-[![Go Report Card](https://goreportcard.com/badge/github.com/JuneKimDev/hash)](https://goreportcard.com/report/github.com/JuneKimDev/hash)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/JuneKimDev/hash)
-![GitHub](https://img.shields.io/github/license/JuneKimDev/hash)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/junekimdev/hash)](https://pkg.go.dev/github.com/junekimdev/hash)
+[![Go Report Card](https://goreportcard.com/badge/github.com/junekimdev/hash)](https://goreportcard.com/report/github.com/junekimdev/hash)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/junekimdev/hash)
+![GitHub](https://img.shields.io/github/license/junekimdev/hash)
 
 ---
 
@@ -16,7 +16,7 @@ Hash algorithms in Golang
 go get it (pun intended :smile_cat:)
 
 ```shell
-go get github.com/JuneKimDev/hash
+go get github.com/junekimdev/hash
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ package main
 import (
   "log"
 
-  "github.com/JuneKimDev/hash"
+  "github.com/junekimdev/hash"
 )
 
 
